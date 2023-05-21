@@ -5,6 +5,8 @@ This project shows the top n (5 default) articles trending on Wikipedia for any 
 
 Line charts are generated for each article, showing daily values over the last 1 week. The remaining pages of the report provide context around why each article was trending, as provided by Chat-GPT.
 
+A sample report is `Trending_Yesterday.pdf`
+
 ## Installation
 I have shared a `requirements.txt` file showing all required libraries. To use this project, you also need API keys for OpenAi and SERPAPI.
 
