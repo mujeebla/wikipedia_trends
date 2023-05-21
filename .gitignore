@@ -1,0 +1,4 @@
+venv/
+nohup*
+pageviews*
+*_*.jpg
